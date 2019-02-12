@@ -11,7 +11,7 @@
     "fabric": "*"
   },
   "mixins": {
-    "client": "modid.client.json",
-    "common": "modid.common.json"
+    "client": "mixins.modid.client.json",
+    "common": "mixins.modid.common.json"
   }
 }
